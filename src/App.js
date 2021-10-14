@@ -14,6 +14,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import ScrollToTop from "./components/ScrollToTop";
 
 function App() {
+  const baseUrl = process.env.REACT_APP_BASE_URL;
   const [load, upadateLoad] = useState(true);
 
   useEffect(() => {
