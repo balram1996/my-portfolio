@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import Button from "react-bootstrap/Button";
-// import Particle from "../Particle";
+
 import Resumecontent from "./ResumeContent";
 import pdf from "../../Assets/balram final resume.pdf";
 import { AiOutlineDownload } from "react-icons/ai";
@@ -15,7 +15,7 @@ function Resume() {
 
   return (
     <Container fluid className="resume-section">
-      {/* <Particle /> */}
+      
       <Container>
         <Row
           style={{ justifyContent: "center", position: "relative" }}
@@ -47,16 +47,7 @@ function Resume() {
               content="Internship in Graphic Designing"
               date="2020"
             />
-            {/* <Resumecontent
-              title=""
-              content="NPTEL Course in Subject of “Microprocessor and Microcontroller” in 2019"
-              date="2019"
-            /> */}
-            {/* <Resumecontent
-              title=""
-              content="Participate in “Smart India Hackathon”"
-              date="2017"
-            /> */}
+            
           </Col>
           <Col md={6} className="resume-right">
             <h3 className="resume-title">Education</h3>
