@@ -30,7 +30,6 @@ function Projects() {
               description="We built this website using HTML | JAVASCRIPT | CSS, for team colloboration we used github regularly, we were 3 member in the team, indivisual has given there task and within the 4 days we deployed some main functionality like login,signup,coursecheck page etc. This was my first ever project, i really learned a lot from this."
               link="https://github.com/balram1996/upgrad-project-2unit"
               linkmedium="https://medium.com/@kurmibalram936/building-the-clone-of-upgrad-website-1dfbd60d1842"
-              
               sitelink="https://www.upgrad.com/"
             />
           </Col>

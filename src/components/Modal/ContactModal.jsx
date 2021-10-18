@@ -12,10 +12,10 @@ const useStyles = makeStyles((theme) => ({
     justifyContent: "center",
   },
   paper: {
-    border: "2px solid purple",
+    border: "2px solid #01334b ",
     boxShadow: theme.shadows[5],
     padding: theme.spacing(2, 4, 3),
-    backgroundColor: "#191227",
+    backgroundColor: "#01334b ",
   },
 }));
 
@@ -32,7 +32,7 @@ export default function TransitionsModal() {
   };
   // Call the `useForm` hook in your function component
   const { state, submit } = useForm({
-    id: "",
+    id: "nPEmMUGhjfN",
   });
   // u4dXKk5fNNv
   // Success message
@@ -55,7 +55,6 @@ export default function TransitionsModal() {
               <div style={{ color: "red" }}>
                 Thank you! We received your submission.
               </div>
-              <div></div>
             </div>
           </form>
         </Fade>
@@ -69,7 +68,7 @@ export default function TransitionsModal() {
         target="_blank"
         data-aos="fade-down"
         onClick={handleOpen}
-        style={{ marginTop: "-20px" }}
+        style={{ marginTop: "-20px", backgroundColor: "#0AABF0" }}
       >
         Click To Send Messege
       </Button>
@@ -112,8 +111,8 @@ export default function TransitionsModal() {
                   className="input-nilp2"
                   required
                 />
-                <br /> <br />
-                <Button type="submit" style={{ width: "60%" }}>
+                <br /> 
+                <Button type="submit" style={{ width: "60%", backgroundColor:"#0AABF0" }}>
                   SUBMIT
                 </Button>
               </div>

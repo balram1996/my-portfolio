@@ -1,7 +1,6 @@
 import React, { useEffect } from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import homeLogo from "../../Assets/home-main.svg";
-
 import Home2 from "./Home2";
 import Type from "./Type";
 import Aos from "aos";
@@ -22,7 +21,7 @@ function Home() {
               <h1 style={{ paddingBottom: 15 }} className="heading">
                 Hi There!
                 <span className="wave" role="img" aria-labelledby="wave">
-                  
+                  👋
                 </span>
               </h1>
 

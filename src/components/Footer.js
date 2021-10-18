@@ -16,6 +16,8 @@ function Footer() {
               <a
                 href="https://github.com/balram1996"
                 style={{ color: "white" }}
+                target="_blank"
+                rel="noreferrer"
               >
                 <AiFillGithub />
               </a>
@@ -24,6 +26,8 @@ function Footer() {
               <a
                 href="https://twitter.com/BalramKurmi7"
                 style={{ color: "white" }}
+                target="_blank"
+                rel="noreferrer"
               >
                 <AiOutlineTwitter />
               </a>
@@ -32,6 +36,8 @@ function Footer() {
               <a
                 href="https://www.linkedin.com/in/balram-kurmi-998324215/"
                 style={{ color: "white" }}
+                target="_blank"
+                rel="noreferrer"
               >
                 <FaLinkedinIn />
               </a>

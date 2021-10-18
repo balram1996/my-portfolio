@@ -31,15 +31,15 @@ function Home2() {
               </i>
               good in 
               <i>
-                <b className="purple">&nbsp;team work &nbsp;</b>
+                <b className="purple">&nbsp;team work, &nbsp;</b>
               </i>
-              with good
+              good in
               <i>
-                <b className="purple">&nbsp; attention to detail &nbsp;</b>
+                <b className="purple">&nbsp; adaptability &nbsp;</b>
               </i>
-              and ability to adopt
+              and always keen to
               <i>
-                <b className="purple">&nbsp; changes. &nbsp;</b>
+                <b className="purple">&nbsp; learn new things. &nbsp;</b>
               </i>
               {/* I am &nbsp; */}
               <i>
