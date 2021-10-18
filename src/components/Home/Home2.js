@@ -25,27 +25,31 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body" data-aos="fade-up">
-              A passionate Developer, with strong
+             Bachelor of science graduate but passionate in Information and technology, i am
               <i>
-                <b className="purple">&nbsp; administrative &nbsp;</b>
+                <b className="purple">&nbsp; fast learner &nbsp;</b>
               </i>
-              and
+              good in 
               <i>
-                <b className="purple">&nbsp;communication skills &nbsp;</b>
+                <b className="purple">&nbsp;team work &nbsp;</b>
               </i>
               with good
               <i>
                 <b className="purple">&nbsp; attention to detail &nbsp;</b>
               </i>
-              and ability to write
+              and ability to adopt
               <i>
-                <b className="purple">&nbsp; efficient code &nbsp;</b>
+                <b className="purple">&nbsp; changes. &nbsp;</b>
               </i>
-              using &nbsp;
+              {/* I am &nbsp; */}
               <i>
-                <b className="purple">MERN Stack &nbsp;</b>
+                {/* <b className="purple">MERN Stack developer &nbsp;</b> */}
               </i>
-              🤷‍♂️
+              😎
+              <br />
+              <br />
+              <i>I am from </i>
+              <b className="purple">Bhopal, Madhya Pradesh &nbsp;</b>
               <br />
               <br />I have been developing Web Apps for over
               <i>
@@ -132,7 +136,7 @@ function Home2() {
               <p
                 href="tel:+7067502442"
                 style={{
-                  color: "purple",
+                  color: "#5AC5FB",
                 }}
               >
                 +917067502442 <br />

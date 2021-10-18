@@ -38,3 +38,11 @@
 .web:hover {
   background-color: gray;
 }
+.icons_techStack{
+  display: flex;
+}
+.java{
+  height: 30px;
+  width: 30px;
+  margin-left: 50px;
+}

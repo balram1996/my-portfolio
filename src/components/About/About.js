@@ -1,10 +1,8 @@
 import React, { useEffect } from "react";
 import { Container, Row, Col } from "react-bootstrap";
-
 import Github from "./Github";
 import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
-
 import Toolstack from "./Toolstack";
 import Aos from "aos";
 import "aos/dist/aos.css";

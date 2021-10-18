@@ -4,6 +4,8 @@ import { AiFillGithub, AiOutlineFundProjectionScreen } from "react-icons/ai";
 import { ImBlog } from "react-icons/im";
 import "./proj.css";
 import { Col } from "react-bootstrap";
+import { DiJavascript1,DiCss3 ,DiJavascript,DiGit } from "react-icons/di";
+import { Row } from "react-bootstrap";
 
 function ProjectCards(props) {
   return (
@@ -24,8 +26,15 @@ function ProjectCards(props) {
       <Card.Body>
         <Card.Text style={{ textAlign: "justify" }}>
           {props.description}
-        </Card.Text>
-
+      </Card.Text>
+      <div style={{ display:"flex"}}>
+      <DiJavascript1 className="java"/>
+      <DiCss3 className="java"/>
+      <DiJavascript className="java"/>
+      <DiGit className="java"/>
+      </div>
+      
+       
         <Col md={12} className="home-about-social">
           <p>
             Find<span className="purple"> More </span>below

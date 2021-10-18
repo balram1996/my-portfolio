@@ -37,7 +37,7 @@ function Home() {
             </Col>
 
             <Col md={5} style={{ paddingBottom: 20 }} data-aos="fade-bottom">
-              <img src={homeLogo} alt="home pic" className="img-fluid" />
+              <img src="https://www.lanecode.com/wp-content/uploads/2021/02/cover-img-1-1.png" alt="home pic" className="img-fluid" />
             </Col>
           </Row>
         </Container>

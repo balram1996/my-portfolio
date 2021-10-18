@@ -27,7 +27,7 @@ function Projects() {
             <ProjectCard
               imgPath={upgrad}
               title="upgrad"
-              description="upgrad is a well known educational website that offers online course, where user can find the desire course in which he wants to persue his higher education. Trying to Developed a look alike of it, categorizing them with rating. Tech Stack used -  Javascript, html, css, mongodb. Done in collaboration with 4 members, under a week."
+              description="We built this website using HTML | JAVASCRIPT | CSS, for team colloboration we used github regularly, we were 3 member in the team, indivisual has given there task and within the 4 days we deployed some main functionality like login,signup,coursecheck page etc. This was my first ever project, i really learned a lot from this."
               link="https://github.com/balram1996/upgrad-project-2unit"
               linkmedium="https://medium.com/@kurmibalram936/building-the-clone-of-upgrad-website-1dfbd60d1842"
               
@@ -39,7 +39,7 @@ function Projects() {
             <ProjectCard
               imgPath={trivago}
               title="trivago"
-              description="trivago is a website that is a hotel and weekend plans booking website that helps users to find the best deal, convert leads, and close customers. It does this by bringing together a variety of functionalities and allowing customers to manage all their activities in one place. Its all about the hotel search, you can search hotel in one place"
+              description="We built this web-clone using JAVASCRIPT | REACT | JSON-SERVER | CSS | STYLED-COMPONENT, we were 4 member in the team, for code collaboration we used github regularly, we divided our work among four according to the experties and in just 4 days we have achieved some main functionality like login, singup, hotel search, filter etc. My wholesome experiece was good, i learned a lot from this"
               sitelink="https://www.trivago.com/"
               link="https://github.com/dhirendra9032/TrivagoClone/tree/master/trivago_clone"
               linkmedium="https://medium.com/@kurmibalram936/trivago-com-clone-424f17a9261b"
