@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.72e1d9c6.chunk.css",
-    "main.js": "/my-portfolio/static/js/main.4c9f58ef.chunk.js",
-    "main.js.map": "/my-portfolio/static/js/main.4c9f58ef.chunk.js.map",
-    "runtime-main.js": "/my-portfolio/static/js/runtime-main.07bfd515.js",
-    "runtime-main.js.map": "/my-portfolio/static/js/runtime-main.07bfd515.js.map",
-    "static/css/2.047300a4.chunk.css": "/my-portfolio/static/css/2.047300a4.chunk.css",
-    "static/js/2.5682af4a.chunk.js": "/my-portfolio/static/js/2.5682af4a.chunk.js",
-    "static/js/2.5682af4a.chunk.js.map": "/my-portfolio/static/js/2.5682af4a.chunk.js.map",
-    "static/js/3.5f8b0117.chunk.js": "/my-portfolio/static/js/3.5f8b0117.chunk.js",
-    "static/js/3.5f8b0117.chunk.js.map": "/my-portfolio/static/js/3.5f8b0117.chunk.js.map",
-    "index.html": "/my-portfolio/index.html",
-    "static/css/2.047300a4.chunk.css.map": "/my-portfolio/static/css/2.047300a4.chunk.css.map",
-    "static/css/main.72e1d9c6.chunk.css.map": "/my-portfolio/static/css/main.72e1d9c6.chunk.css.map",
-    "static/js/2.5682af4a.chunk.js.LICENSE.txt": "/my-portfolio/static/js/2.5682af4a.chunk.js.LICENSE.txt",
-    "static/media/balram final resume.7fc776f0.pdf": "/my-portfolio/static/media/balram final resume.7fc776f0.pdf",
-    "static/media/style.css": "/my-portfolio/static/media/pre.4410c5ba.svg",
-    "static/media/home-main.359935c3.svg": "/my-portfolio/static/media/home-main.359935c3.svg",
-    "static/media/trivago.4db338fc.png": "/my-portfolio/static/media/trivago.4db338fc.png",
-    "static/media/upgrad.4023134d.png": "/my-portfolio/static/media/upgrad.4023134d.png"
+    "main.css": "./static/css/main.932cc94d.chunk.css",
+    "main.js": "./static/js/main.a48c3f2c.chunk.js",
+    "main.js.map": "./static/js/main.a48c3f2c.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.02af46b2.js",
+    "runtime-main.js.map": "./static/js/runtime-main.02af46b2.js.map",
+    "static/css/2.047300a4.chunk.css": "./static/css/2.047300a4.chunk.css",
+    "static/js/2.93ed9c5a.chunk.js": "./static/js/2.93ed9c5a.chunk.js",
+    "static/js/2.93ed9c5a.chunk.js.map": "./static/js/2.93ed9c5a.chunk.js.map",
+    "static/js/3.b7747584.chunk.js": "./static/js/3.b7747584.chunk.js",
+    "static/js/3.b7747584.chunk.js.map": "./static/js/3.b7747584.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.047300a4.chunk.css.map": "./static/css/2.047300a4.chunk.css.map",
+    "static/css/main.932cc94d.chunk.css.map": "./static/css/main.932cc94d.chunk.css.map",
+    "static/js/2.93ed9c5a.chunk.js.LICENSE.txt": "./static/js/2.93ed9c5a.chunk.js.LICENSE.txt",
+    "static/media/balram final resume.7fc776f0.pdf": "./static/media/balram final resume.7fc776f0.pdf",
+    "static/media/home-main.359935c3.svg": "./static/media/home-main.359935c3.svg",
+    "static/media/style.css": "./static/media/pre.4d199119.svg",
+    "static/media/trivago.4db338fc.png": "./static/media/trivago.4db338fc.png",
+    "static/media/upgrad.4023134d.png": "./static/media/upgrad.4023134d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.07bfd515.js",
+    "static/js/runtime-main.02af46b2.js",
     "static/css/2.047300a4.chunk.css",
-    "static/js/2.5682af4a.chunk.js",
-    "static/css/main.72e1d9c6.chunk.css",
-    "static/js/main.4c9f58ef.chunk.js"
+    "static/js/2.93ed9c5a.chunk.js",
+    "static/css/main.932cc94d.chunk.css",
+    "static/js/main.a48c3f2c.chunk.js"
   ]
 }
