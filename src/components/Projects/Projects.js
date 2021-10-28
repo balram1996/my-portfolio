@@ -39,7 +39,7 @@ function Projects() {
               imgPath={trivago}
               title="trivago"
               description="We built this web-clone using JAVASCRIPT | REACT | JSON-SERVER | CSS | STYLED-COMPONENT, we were 4 member in the team, for code collaboration we used github regularly, we divided our work among four according to the experties and in just 4 days we have achieved some main functionality like login, singup, hotel search, filter etc. My wholesome experiece was good, i learned a lot from this"
-              sitelink="https://www.trivago.com/"
+              linklive="https://trivagoclone.netlify.app/"
               link="https://github.com/dhirendra9032/TrivagoClone/tree/master/trivago_clone"
               linkmedium="https://medium.com/@kurmibalram936/trivago-com-clone-424f17a9261b"
               

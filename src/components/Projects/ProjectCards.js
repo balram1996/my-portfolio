@@ -5,7 +5,7 @@ import { ImBlog } from "react-icons/im";
 import "./proj.css";
 import { Col } from "react-bootstrap";
 import { DiJavascript1,DiCss3 ,DiJavascript,DiGit } from "react-icons/di";
-import { Row } from "react-bootstrap";
+// import { Row } from "react-bootstrap";
 
 function ProjectCards(props) {
   return (
