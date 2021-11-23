@@ -25,7 +25,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body" data-aos="fade-up">
-            I have done my graduation from Barkatullah  University in the specialization of B.Sc(mathematics), I am
+            I have done my graduation from Barkatullah University Bhopal, I am
               <i>
                 <b className="purple">&nbsp; fast learner &nbsp;</b>
               </i>
@@ -33,7 +33,7 @@ function Home2() {
               <i>
                 <b className="purple">&nbsp;team work, &nbsp;</b>
               </i>
-              good in
+              and
               <i>
                 <b className="purple">&nbsp; adaptability &nbsp;</b>
               </i>

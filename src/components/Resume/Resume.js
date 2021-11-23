@@ -39,7 +39,7 @@ function Resume() {
             <h3 className="resume-title">Achievements</h3>
             <Resumecontent
               title=""
-              content="Post Graduate Diploma in Computer Application"
+              content="Post Graduation Diploma in Computer Application"
               date="2020"
             />
             <Resumecontent
@@ -52,12 +52,12 @@ function Resume() {
           <Col md={6} className="resume-right">
             <h3 className="resume-title">Education</h3>
             <Resumecontent
-              title="bachelor of Science"
+              title="Bachelor of Science"
               content="Barkatullah University, Bhopal"
               date="2015 - 2018"
             />
             <Resumecontent
-              title="Intermideate"
+              title="Intermediate"
               content="Jawahar Navodaya Vidhayalaya, Raisen"
               date="2013 - 2014"
             />
