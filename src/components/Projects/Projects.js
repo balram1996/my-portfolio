@@ -4,6 +4,7 @@ import ProjectCard from "./ProjectCards";
 
 import trivago from "../../Assets/Projects/trivago.png";
 import upgrad from "../../Assets/Projects/upgrad.png";
+import producthunt from "../../Assets/Projects/producthunt.png";
 import Aos from "aos";
 import "aos/dist/aos.css";
 
@@ -43,6 +44,18 @@ function Projects() {
               linklive="https://trivagoclone.netlify.app/"
               link="https://github.com/dhirendra9032/TrivagoClone/tree/master/trivago_clone"
               linkmedium="https://medium.com/@kurmibalram936/trivago-com-clone-424f17a9261b"
+              
+            />
+          </Col>
+
+          <Col md={5} className="project-card" data-aos="fade-up">
+            <ProjectCard
+              imgPath={producthunt}
+              title="Product Hunt"
+              description="We built this web-clone using JAVASCRIPT | REACT | MONGODB | CSS | MATERIAL-UI, we were 4 member in our team, for code collaboration we used github regularly, we divided our work among four according to the experties and in just 4 days we have achieved some main functionality like login, singup, product search, product registration filter etc. My wholesome experiece was good, i learned a lot from this"
+              linklive="https://product-hunt-frontend.herokuapp.com/"
+              link="https://github.com/gsunil1996/p-hunt-website-clone/tree/master"
+              linkmedium="https://medium.com/@kurmibalram936/product-hunt-clone-c6487b81fb4b"
               
             />
           </Col>
