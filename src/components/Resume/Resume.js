@@ -3,7 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import Button from "react-bootstrap/Button";
 
 import Resumecontent from "./ResumeContent";
-import pdf from "../../Assets/Balram Kurmi Resume.pdf";
+import pdf from "../../Assets/Balram Kurmi.pdf";
 import { AiOutlineDownload } from "react-icons/ai";
 import Aos from "aos";
 import "aos/dist/aos.css";
