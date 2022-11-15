@@ -57,14 +57,14 @@ function Resume() {
               date="2015 - 2018"
             />
             <Resumecontent
-              title="Intermediate"
-              content="Jawahar Navodaya Vidhayalaya, Raisen"
-              date="2013 - 2014"
+            title="High School"
+            content="Jawahar Navodaya Vidhayalaya, Raisen"
+            date="2014 - 2015"
             />
             <Resumecontent
-              title="High School"
-              content="Jawahar Navodaya Vidhayalaya, Raisen"
-              date="2014 - 2015"
+            title="Intermediate"
+            content="Jawahar Navodaya Vidhayalaya, Raisen"
+            date="2013 - 2014"
             />
           </Col>
         </Row>
