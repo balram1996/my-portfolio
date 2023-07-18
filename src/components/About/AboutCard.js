@@ -11,6 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Balram Kurmi </span>
             from <span className="purple"> Bhopal, Madhya Pradesh</span>
             <br /> I have done my graduation from Barkatullah  University in the specialization of B.Sc(mathematics)
+            <br /> also I have done Post graduate diploma in computer application as i am interested in tech so i have done web development certification from a well known organisation called <span className="purple">Masai school.</span>
             <br />
             <br />
             Apart from coding, some other activities that I love to do!

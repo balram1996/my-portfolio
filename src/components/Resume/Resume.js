@@ -3,7 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import Button from "react-bootstrap/Button";
 
 import Resumecontent from "./ResumeContent";
-import pdf from "../../Assets/Balram Kurmi.pdf";
+import pdf from "../../Assets/Resume.pdf";
 import { AiOutlineDownload } from "react-icons/ai";
 import Aos from "aos";
 import "aos/dist/aos.css";
@@ -51,6 +51,11 @@ function Resume() {
           </Col>
           <Col md={6} className="resume-right">
             <h3 className="resume-title">Education</h3>
+            <Resumecontent
+              title="Web Development internship"
+              content="masai school banglore"
+              date=" july 2021"
+            />
             <Resumecontent
               title="Bachelor of Science"
               content="Barkatullah University, Bhopal"
