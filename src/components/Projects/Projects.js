@@ -8,6 +8,7 @@ import producthunt from "../../Assets/Projects/producthunt.png";
 import Tradingview from "../../Assets/Projects/tradingview.png";
 import Lightweight from "../../Assets/Projects/lightweight.png";
 import plugin from "../../Assets/Projects/plugin.png";
+import stockinfo from "../../Assets/Projects/stockinfo.png";
 import Aos from "aos";
 import "aos/dist/aos.css";
 
@@ -32,8 +33,8 @@ function Projects() {
               imgPath={Tradingview}
               title="TradingView Chart"
               description="We have implemented tradingView library in our trading platform initially only chartIQ library chart were there, We have choosen vanilla JAVASCRIPT for the implementation, this was my first project in the company and i was in charts team there."
-              linklive="https://tradechart.5paisa.com/TradingViewChart/index.html?type=overview&period=1&range=d&appName=5paisa&appVer=5.11.6.0&osName=TTWEB&exchange=nse&exchType=C&symbol=Nifty50&scripCode=999920000&loginId=52776385"
-              sitelink="https://tradechart.5paisa.com/TradingViewChart/index.html?type=overview&period=1&range=d&appName=5paisa&appVer=5.11.6.0&osName=TTWEB&exchange=nse&exchType=C&symbol=Nifty50&scripCode=999920000&loginId=52776385"
+              linklive="https://fno.5paisa.com/tradingviewchart?fullName=NIFTY%2020%20Jul%202023%20CE%2019750&source=derivative&exchange=N&exchangeType=D&expiry=20%20Jul%2023&symbol=NIFTY&strikePrice=19750&scripCode=72236"
+              sitelink="https://fno-pre.5paisa.com/tradingviewchart?fullName=NIFTY%2020%20Jul%202023%20CE%2019750&source=derivative&exchange=N&exchangeType=D&expiry=20%20Jul%2023&symbol=NIFTY&strikePrice=19750&scripCode=72236"
             />
           </Col>
 
@@ -50,7 +51,7 @@ function Projects() {
               imgPath={plugin}
               title="5P Plugin"
               description="Developed a small library named as plugin for third party brokers, who does not have BUY SELL on there platform, whole project is developed by me, a library code written in javascript,frontend written in reactJS, backend written in nodeJS."
-              linklive="https://tradechart-uat.5paisa.com/pluginDemo/index.html"
+              linklive="https://www.5paisa.com/technology/publisher-library/try-demo"
               link=""
               linkmedium=""
               
@@ -59,9 +60,9 @@ function Projects() {
 
           <Col md={5} className="project-card" data-aos="fade-up">
             <ProjectCard
-              imgPath={plugin}
+              imgPath={stockinfo}
               title="Derivatives"
-              description="We were 6 in the team and in just 4 months we have developed a dedicated platform for F&O trading, currently no broker has dedicated platform, we have used ReactJS for its developemt, i have  developed open interest page and order page."
+              description="We were 6 in the team and in just 4 months we have developed a dedicated platform for F&O trading, currently no broker has dedicated platform, we have used ReactJS for its developemt."
               linklive="https://fno.5paisa.com/"
               link="https://fno.5paisa.com/open-interest"
               linkmedium=""
@@ -71,7 +72,6 @@ function Projects() {
 
         </Row>
       </Container>
-      // Projects during learning face
       <Container>
         <h1 className="project-heading" data-aos="fade-right">
           My Learning <strong className="purple">Works </strong>

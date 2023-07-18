@@ -25,19 +25,19 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body" data-aos="fade-up">
-            I have done my graduation from Barkatullah University Bhopal, I am
+            I have done my graduation from  Bhopal, I am
               <i>
                 <b className="purple">&nbsp; fast learner &nbsp;</b>
               </i>
               good in 
               <i>
-                <b className="purple">&nbsp;team work, &nbsp;</b>
+                <b className="purple">&nbsp;team work &nbsp;</b>
               </i>
               and
               <i>
                 <b className="purple">&nbsp; adaptability &nbsp;</b>
               </i>
-              and always keen to
+              and i am always keen to
               <i>
                 <b className="purple">&nbsp; learn new things. &nbsp;</b>
               </i>
@@ -51,9 +51,9 @@ function Home2() {
               <i> ◉ I am from </i>
               <b className="purple">Bhopal, Madhya Pradesh &nbsp;</b>
               <br />
-              <br />I have been developing Web Apps for over
+              <br />I have been working in 5paisa for over
               <i>
-                <b className="purple">&nbsp; 6 months</b>
+                <b className="purple">&nbsp; 2 years</b>
               </i>
               . Well versed in coding using
               <i>
@@ -85,8 +85,8 @@ function Home2() {
           >
             <Tilt>
               <img
-                style={{ height: "22vw" }}
-                src="balli bhai.jpg"
+                style={{ height: "28vw" , width: "15vw"}}
+                src="my img.jpg"
                 className="img-fluid"
                 alt="avatar"
               />

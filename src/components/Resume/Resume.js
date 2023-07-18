@@ -52,6 +52,11 @@ function Resume() {
           <Col md={6} className="resume-right">
             <h3 className="resume-title">Education</h3>
             <Resumecontent
+              title="Web Development internship"
+              content="masai school banglore"
+              date=" july 2021"
+            />
+            <Resumecontent
               title="Bachelor of Science"
               content="Barkatullah University, Bhopal"
               date="2015 - 2018"
